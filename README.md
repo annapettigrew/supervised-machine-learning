@@ -14,3 +14,16 @@ Supervised Machine Learning Homework - Predicting Credit Risk
 - Lastly I Fited a LogisticRegression model and RandomForestClassifier model
         - Created a LogisticRegression model, fited it to the data, and printed the model's score. And did the same for the RandomForestClassifier.
 
+Prediction:
+    - I believe that the Logistic Regression will perform better and be more accurate.
+    
+    - I think this because LR tends to be more accurate with numerical data while Random Forest Classifier is better with categorial data and outliers
+
+Results:  
+    - As they were close my prediction before conducting the Analysis was incorrect.  
+    
+    - The Random Forest Classifier ended up being slightly better and more accurate.  
+    
+    - I believe with the Loan status category it was an outlier vs the other data and this is what I believe made the RFC more accurate overall. 
+    
+    - Random Forest Classifier is more of an Accuracy focused algorithm and Random selection can capture more complex feature patterns to provide the best accuracy.
